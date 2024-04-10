@@ -1,0 +1,203 @@
+.principal {
+    text-align: center;
+    width: 50%;
+    float: left;
+}
+
+.paragrafo_principal{
+    text-align: justify;
+    margin: 1em 6em;
+}
+
+.principal2{
+    text-align: center;
+    width: 50%;
+    float: left;
+}
+
+.principal_subtitulo{
+    margin: 2em 0;
+}
+
+ul{
+    text-align: justify;
+    margin: 5em 20%;
+    
+}
+
+li {
+    list-style-type: none;
+
+}
+
+.sites_link{
+    text-align: center;
+}
+
+a { text-decoration: none;}
+
+.admprincipal{
+    text-align: center;
+    color: blueviolet;
+}
+
+.bodyadm{
+    background-color: black;
+}
+
+.admprincipal2{
+    text-align: center;
+    color: blueviolet;
+}
+
+.admimg{
+    width: 300px;
+}
+
+
+.linksadm{
+    text-align: center;
+    color: white;
+}
+
+
+.adsprincipal{
+    text-align: center;
+    color: aquamarine;
+}
+
+
+.adsbody{
+    background-color: black;
+}
+
+.linksads{
+    text-align: center;
+    color: white;
+}
+
+.bdsprincipal{
+    text-align: center;
+    color: coral;
+}
+
+.bodybds{
+    background-color: black;
+}
+
+.linksbds{
+    text-align: center;
+    color: white;
+}
+
+.engcompprincipal{
+    text-align: center;
+    color: darkred;
+}
+
+.bodyengcomp{
+    background-color: black;
+}
+
+.linksengcomp{
+    text-align: center;
+    color: white;
+}
+
+.engprodprincipal{
+    text-align: center;
+    color: cornflowerblue;
+}
+
+.bodyengprod{
+    background-color: black;
+}
+
+.linksengprod{
+    text-align: center;
+    color: white;
+}
+
+.engmecprincipal{
+    text-align: center;
+    color: forestgreen;
+}
+
+.bodyengmec{
+    background-color: black;
+}
+
+.linksengmec{
+    text-align: center;
+    color: white;
+}
+
+.gtiprincipal{
+    text-align: center;
+    color: mediumslateblue;
+}
+
+.bodygti{
+    background-color: black;
+}
+
+.linksgti{
+    text-align: center;
+    color: white;
+}
+
+.jdprincipal{
+    text-align: center;
+    color: purple;
+}
+
+.bodyjd{
+    background-color: black;
+}
+
+.linksjd{
+    text-align: center;
+    color: white;
+}
+
+.sinfprincipal{
+    text-align: center;
+    color: darkolivegreen;
+}
+
+.bodysinf{
+    background-color: black;
+}
+
+.linkssinf{
+    text-align: center;
+    color: white;
+}
+
+.siprincipal{
+    text-align: center;
+    color: teal;
+}
+
+.bodysi{
+    background-color: black;
+}
+
+.linkssi{
+    text-align: center;
+    color: white;
+}
+
+.rcprincipal{
+    text-align: center;
+    color: brown;
+}
+
+.bodyrc{
+    background-color: black;
+}
+
+.linksrc{
+    text-align: center;
+    color: white;
+}
